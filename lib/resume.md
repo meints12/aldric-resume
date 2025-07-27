@@ -29,7 +29,7 @@ _February 2024 – Present_
 
 ### Development Consultant  
 **Greenline Estimations – Remote**  
-_January 2022 – Present_  
+_April 2024 – Present_  
 - Provided strategic guidance and technical expertise during the development of a new SaaS product targeted at the medical industry.  
 - Conducted market research to identify customer needs and inform product development.  
 - Collaborated with cross-functional teams to define product requirements and specifications.  

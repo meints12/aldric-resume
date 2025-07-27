@@ -37,8 +37,6 @@ export default function Page() {
           "Tailwind CSS",
         ]}
       />
-
-      {/* Other sections would go here */}
       <ExperienceSection />
       <ProjectsSection />
       <ContactSection />

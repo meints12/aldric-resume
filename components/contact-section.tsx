@@ -21,8 +21,6 @@ interface ContactSectionProps {
 }
 
 export default function ContactSection({
-  name = "Aldric Meints",
-  title = "Full Stack Developer",
   location = "Omaha, NE",
   email = "aldricmeints@gmail.com",
   phone = "970-988-1523",

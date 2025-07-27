@@ -43,7 +43,7 @@ const defaultExperiences: ExperienceItem[] = [
     id: "greenline-estimation",
     company: "Greenline Estimations",
     role: "Development Consultant",
-    duration: "Jan 2024 - Current",
+    duration: "Apr 2024 - Current",
     location: "Remote",
     type: "contract",
     description:
