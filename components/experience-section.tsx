@@ -24,17 +24,17 @@ const defaultExperiences: ExperienceItem[] = [
     id: "remarcable",
     company: "Remarcable",
     role: "Technical Product Manager",
-    duration: "Jan 2023 - Current",
+    duration: "Mar 2024 - Current",
     location: "Omaha, NE",
     type: "full-time",
     description:
       "Led product development initiatives and technical strategy for a growing SaaS platform, bridging the gap between engineering and business objectives.",
     achievements: [
-      "Stood up the Product Development team from ground zero, establishing processes and workflows that improved delivery speed by 40%",
+      "Stood up the Product Development team from ground zero, establishing processes and workflows that improved delivery speed",
       "Created seamless integrations between internal toolings, reducing manual work and improving team productivity",
       "Acted as Salesforce administrator, managing CRM configurations and automations for a 50+ person sales and support team",
       "Collaborated with engineering teams to define technical requirements and product roadmaps",
-      "Implemented agile methodologies and sprint planning processes across 3 development teams",
+      "Implemented agile methodologies and sprint planning processes across 3 globally distributed development teams",
     ],
     technologies: ["Angular", "Django", "Salesforce", "APIs", "Apex (Salesforce Java)", "PostgreSQL", "AWS", "Docker"],
     current: true,
@@ -43,7 +43,7 @@ const defaultExperiences: ExperienceItem[] = [
     id: "greenline-estimation",
     company: "Greenline Estimations",
     role: "Development Consultant",
-    duration: "Jan 2022 - Current",
+    duration: "Jan 2024 - Current",
     location: "Remote",
     type: "contract",
     description:
@@ -61,7 +61,7 @@ const defaultExperiences: ExperienceItem[] = [
     id: "jbs-foods",
     company: "JBS Foods",
     role: "Purchasing Manager",
-    duration: "Mar 2021 - Dec 2022",
+    duration: "May 2023 - Feb 2024",
     location: "Omaha, NE",
     type: "full-time",
     description:
@@ -80,7 +80,7 @@ const defaultExperiences: ExperienceItem[] = [
     id: "data-annotation",
     company: "Data Annotation",
     role: "AI Data Analyst",
-    duration: "Jun 2019 - Feb 2021",
+    duration: "Jun 2022 - Feb 2024",
     location: "Remote",
     type: "part-time",
     description:
